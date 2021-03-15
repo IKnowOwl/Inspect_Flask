@@ -1,0 +1,8 @@
+# Ignore these files
+
+# dependencies
+bin
+include
+lib
+lib64
+pyvenv.cfg
